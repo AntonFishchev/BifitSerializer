@@ -2,6 +2,7 @@
 
 ## Результат работы программы
 
+```
 Исходный документ Bifir:
 
 $DOCUMENT
@@ -203,3 +204,4 @@ $AUXILIARY_SECTION
 REMOTE_IP_ADDRESS=192.168.123.12
 $AUXILIARY_SECTION_END
 $DOCUMENT_END
+```
